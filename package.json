@@ -1,0 +1,29 @@
+{
+  "name": "omnitoken",
+  "version": "0.0.1",
+  "description": "Collection of omnitoken contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DegenerativesOrg/omnitoken.git"
+  },
+  "keywords": [
+    "omnitoken",
+    "blockchain",
+    "crypto",
+    "web3"
+  ],
+  "author": "Rald Blox",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DegenerativesOrg/omnitoken/issues"
+  },
+  "homepage": "https://github.com/DegenerativesOrg/omnitoken#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15"
+  }
+}
